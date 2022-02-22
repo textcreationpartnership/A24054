@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract or abridgment, of a decree made, and often confirmed in the High Court of Chancery, concerning the payment of a tyth or 10th. part of lead-oar [sic] in the county of Derby</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1705</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24054</idno>
+            <idno type="STC">Wing A147A</idno>
+            <idno type="STC">ESTC T114275</idno>
+            <idno type="EEBO-CITATION">99834178</idno>
+            <idno type="PROQUEST">99834178</idno>
+            <idno type="VID">38676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38676)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1802:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract or abridgment, of a decree made, and often confirmed in the High Court of Chancery, concerning the payment of a tyth or 10th. part of lead-oar [sic] in the county of Derby</title>
+               </titleStmt>
+               <extent>24p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1705?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38676:1"/>
+            <head>AN Abſtract <hi>or</hi> Abridgment, OF A <hi>Decree</hi> Made, and often Confirmed in the <hi>High Court of Chancery,</hi> concerning the Payment of a Tyth or 10th. Part of <hi>Lead-Oar</hi> in the County of <hi>Derby.</hi>
+            </head>
+            <opener>
+               <signed>CAROLUS <hi>Secundus Dei Gratiâ,</hi> An<g ref="char:EOLhyphen"/>gliae, Scotiae, Franciae <hi>&amp;</hi> Hiberniae <hi>Rex, Fidei Defenſor, &amp;c.</hi>
+               </signed>
+               <salute>
+                  <hi>Georgio Sa<g ref="char:EOLhyphen"/>vile, Willielmo Savile, Jacobo Hopkin<g ref="char:EOLhyphen"/>ſon, Rogero Newton, Alveredo Motte<g ref="char:EOLhyphen"/>ram, Generoſis,</hi> ac cuicun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Perſonae ſive qui<g ref="char:EOLhyphen"/>buſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aliis Perſonis quos Decretum vel finale Judicium aliqualiter tangit, ſive concernit &amp; co<g ref="char:EOLhyphen"/>rum Cuilibet ſalutem:</salute>
+            </opener>
+            <p>Cum quoddam finale Judi<g ref="char:EOLhyphen"/>cium ſive Decretum coram Nobis in Curiâ noſtrâ Cancellariae antehac fact' extitit in haec Verba.</p>
+            <p>WHEN before this Time, that is to ſay, in the Term of St. <hi>Michael, Anno Dom.</hi> 1628, <hi>Ri<g ref="char:EOLhyphen"/>chard Carrier,</hi> Clerk, Vicar of <hi>Wirkſworth</hi> in the County of <hi>Derby,</hi> Complainant, Exhibi<g ref="char:EOLhyphen"/>ted his Bill of Complaint into the High and Honourable Court of <hi>Chancery</hi> againſt <hi>Ephraim Fern, Richard Wigley,
+<pb n="2" facs="tcp:38676:2"/>Anthony Coates,</hi> and <hi>William Debanks,</hi> Defendants; de<g ref="char:EOLhyphen"/>claring by the ſame, That whereas the Complainant and all his Predeceſſors, Vicars of <hi>Wirkſworth,</hi> Time be<g ref="char:EOLhyphen"/>yond the Memory of Man, have had, <hi>and received, and uſed to have and receive, and do of right, ought to have and receive a certain Cuſtomary Duty of all the Lead-Oar or Lead-Mine,</hi> which had been gotten within the ſaid Pariſh of <hi>Wirkſworth,</hi> dreſſed and clean<g ref="char:EOLhyphen"/>ſed from the Earth and Rubbiſh, at and by the only Coſts and Labours of the Miners and Getters of the ſaid Oar and Lead-Mine, the ſaid Complainant and his Predeceſſors allowing to the ſaid Miners and Getters of the ſaid Oar and Lead-Mine only <hi>one Penny</hi> for the dreſſing, cleanſing and waſhing every the ſaid 10th. Diſh without Interruption of any Man, until about the 18th Year of the Reign of K. <hi>James</hi> I.</p>
+            <p>At which time the ſaid Complainant exhibited his Engliſh Bill into the Court of Exchequer Chamber,
+<note place="margin">The firſt Suit in the Exche<g ref="char:EOLhyphen"/>quer Court.</note> againſt divers Miners who refuſed to pay this Duty: The Miners being ſerved with Subpoena's from that Court, appeared in <hi>Michaelmns</hi> Term (180 <hi>Jacobi</hi>) but gave no Anſwer.</p>
+            <p>The Miners upon their Petition to the Privy Coun<g ref="char:EOLhyphen"/>cel obtained an Order,
+<note place="margin">Removed (to<g ref="char:EOLhyphen"/>gether with the Suits of other Propri<g ref="char:EOLhyphen"/>etors) to the Privy Coun<g ref="char:EOLhyphen"/>cel</note> dated 22d of <hi>November, Anno</hi> 180 <hi>Jacobi Primi,</hi> to ſtay the Suit in the Exchequer Court, and to bring it before the Councel, where alſo the Proceedings at Law of <hi>John Gell</hi> Eſq; (afterwards Sir <hi>John Gell</hi> Barr.) for one third part of the Tyth-Oar, and of Sir <hi>Francis Leak</hi> (then Knight, afterward Lord <hi>Deincourt</hi>) for the other two parts of the Tyth-Oar in the Pariſhes of <hi>Bakewell, Tiddeſwall</hi> and <hi>Hope,</hi> in the hundred of <hi>High Peak</hi> in <hi>Darbyſhire,</hi> were then, and for divers Years before had been ſtayed.</p>
+            <pb n="3" facs="tcp:38676:2"/>
+            <p>
+               <hi>And the whole Cauſe concerning the Tyth or Tenth of Lead-Oar within the ſaid County of Darby,</hi>
+               <note place="margin">The Cauſe of Tyth-Oar for the whole County be<g ref="char:EOLhyphen"/>fore the Councel.</note> was then ſtayed at the Councel Board upon <hi>Auggeſſion</hi> by the Miners of ſome <hi>Point of State:</hi> So that divers Miniſters, Parſons and Vicars, within the ſaid County, <hi>who had a great Part of their Maintenance out of the ſaid Tenth of Lead-Oar,</hi> were forced to forbear all Proceed<g ref="char:EOLhyphen"/>ings at the Law for the ſame, and to be content to live without the ſame, during the time that the Matter was in queſtion at the ſaid <hi>Councel Board.</hi>
+            </p>
+            <p>And thereupon <hi>The Cuſtom of the Payment of the ſaid Tyth or Tenth of Lead Oar,
+<note place="margin">The Cuſtom for this Tyth one and the ſame through<g ref="char:EOLhyphen"/>out the Coun<g ref="char:EOLhyphen"/>ty.</note> being claimed to be all one and the ſame in all Partiſhes within the ſaid County of Darby, where the ſaid Lead-Oar is gotten.</hi>
+            </p>
+            <p>Their Lordſhips <hi>for the avoiding Multiplicity of Suits,</hi> which otherwiſe would have enſued,
+<note place="margin">The Coun<g ref="char:EOLhyphen"/>cels Directi<g ref="char:EOLhyphen"/>ons for Tryal of the gene<g ref="char:EOLhyphen"/>ral Cuſtom.</note> &amp; for the <hi>Fi<g ref="char:EOLhyphen"/>nal ſettling of this Cauſe,</hi> thought ſit <hi>for the whole County, as well concerning the Parſons and <g ref="char:V">Ʋ</g>icars, as other Proprietors of the ſaid Tyth and Cuſtoma<g ref="char:EOLhyphen"/>ry Duty of Lead-Oar,</hi> to refer the ſaid <hi>Cuſtom</hi> to a Tryal at <hi>Common Law,</hi> which accordingly was done by an Order of that Court of 26th of <hi>November, Anno Domini</hi> 1619, (with ſpecial Directions how and in what manner the ſaid Trial ſhould be brought on and tryed) and that <hi>onely the ſaid Cuſtom ſhould be given in Evi<g ref="char:EOLhyphen"/>dence,</hi> and both Parties to inſiſt thereupon.</p>
+            <p>This Tryal was had at the <hi>Common-Pleas-Bar</hi> in <hi>Ea<g ref="char:EOLhyphen"/>ſter-Term</hi> 1620, <hi>where the Cuſtom was onely in Iſſue,
+<note place="margin">A Verdict for the gene<g ref="char:EOLhyphen"/>ral Cuſtom.</note> and both Parties onely inſiſted thereupon,</hi> and after 4 Hours Evidence before the Judges in the hearing the ſaid Cauſe, <hi>A <g ref="char:V">Ʋ</g>erdict paſſed for the ſaid Cuſtom,</hi> and with the Plaintiff in that Cauſe.</p>
+            <pb n="4" facs="tcp:38676:3"/>
+            <p>After which ſaid Tryal,
+<note place="margin">The Miners litigiouſly de<g ref="char:EOLhyphen"/>ſire a ſecond Tryal.</note> the Miners not yet ſatisfied, <hi>but endeavouring to weary out the ſaid Complainant, and the reſt intereſſed in the ſaid Duty,</hi> upon Pretence of having ſome old Witneſſes not before examined, ob<g ref="char:EOLhyphen"/>tained from the Lords of the Councel, an Order of the 21st. of <hi>June, Anno Dom.</hi> 1620, for another Tryal at Common Law, under particular Directions (as before) which Tryal was had at the <hi>Common-Pleas-Bar</hi> in <hi>Micha<g ref="char:EOLhyphen"/>elmas-Term, Anno Dom.</hi> 1620. <hi>upon the very point of the ſaid Cuſtom. And there alſo upon full and long Evidence,</hi>
+               <note place="margin">A ſecond Verdict for general Cuſ<g ref="char:EOLhyphen"/>tom.</note> a ſecond <hi>
+                  <g ref="char:V">Ʋ</g>erdict</hi> paſſed for the ſaid Cuſtom, and with the ſaid Plaintiff in that Suit [<hi>viz.</hi> Mr. <hi>John Gell.</hi>]</p>
+            <p>Notwithſtanding which Verdict,
+<note place="margin">The Propri<g ref="char:EOLhyphen"/>etors Petition the King.</note> the ſaid Complai<g ref="char:EOLhyphen"/>nant <hi>[Carrier]</hi> together with the ſaid Mr. <hi>Gell,</hi> and the Lord <hi>Deincourt,</hi> and the other Miniſters intereſſed in the ſaid <hi>Cuſtomary Duty</hi> of the <hi>Tyth</hi> or Tenth of <hi>Lead-Oar within the ſaid County of Derby,</hi> in reſpect they could not quietly enjoy the ſame according to the ſaid <hi>
+                  <g ref="char:V">Ʋ</g>erdicts,</hi> were forced for their Relief againſt the ſaid Miners, <hi>being a Multitude, and making a general Purſe, thereby to weary out the ſaid Complainant, and others intereſſed,</hi> to petition His Majeſty (King <hi>James</hi> I.) for to eſtabliſh them in the ſaid Tyth or 10th of Lead-Oar as aforeſaid.</p>
+            <p>The King refers the Conſideration of this to the Arch-Biſhop of <hi>Canterbury,</hi>
+               <note place="margin">The King refers it to ſome Lords.</note> and to the Lord High Treaſurer, (afterwards Lord Privy Seal) with <hi>ſpecial Directions that upon due Examination</hi> of the Cauſe, they ſhould take <hi>Ef<g ref="char:EOLhyphen"/>fectual Order</hi> for the Petitioners Relief, and to certifie what courſe might be taken to put them in Poſſeſſion.</p>
+            <p>According to which Reference, their Lordſhips ha<g ref="char:EOLhyphen"/>ving
+<pb n="5" facs="tcp:38676:3"/>
+               <hi>heard the ſaid Cauſe at large debated thereof,</hi> did in <hi>July</hi> 1621, Certifie unto His Majeſty, that they had ſeen the former Proceedings before the Councel, and at Common Law by Directions from the Lords of the Councel, that Mr. <hi>Gell</hi> aforeſaid, had prevailed at Law for his 3d part of this Tyth; and the Lord <hi>Deincourt</hi> had obtained a Decree in the Exchequer for the other two 3d parts of this Tyth, in the Pariſhes of <hi>Bakewell, Tiddeſwall</hi> and <hi>Hope.</hi>
+            </p>
+            <p>So as it appeared unto them <hi>Iuſt and fit, that the ſaid Tyths or Tenth ſhould be eſtabliſhed according to the ſaid Tryals at Law, and the ſaid Decree in the Ex<g ref="char:EOLhyphen"/>chequer.</hi>
+               <note place="margin">The Lords certify the Ju<g ref="char:EOLhyphen"/>ſtice and E<g ref="char:EOLhyphen"/>quity of the ſaid Cuſtom.</note>
+            </p>
+            <p>After which Certificate by ſpecial Order and Direc<g ref="char:EOLhyphen"/>tion from the ſaid King <hi>James</hi> I, by an Order of Coun<g ref="char:EOLhyphen"/>cel of the 5th. of <hi>October</hi> 1621, it was Ordered,
+<note place="margin">The Cauſe honourably diſmiſſed from the Councel-Table, with a Declaration of the Miners falſe pretence.</note> That the <hi>Complainant and all ſuch others as were intereſ<g ref="char:EOLhyphen"/>ſed, or had any Right or Title in, and to the Tyth or Tenth of Lead Oar, together with the whole Cauſe</hi> then depending before them, ſhould be clearly diſ<g ref="char:EOLhyphen"/>charged and diſmiſſed from the ſaid Council-Board, and ſhould be left to the full <hi>Fruition and Benefit of the Law.</hi>
+            </p>
+            <p>And becauſe the ſaid Complainant <hi>and the Reſt,</hi> had had loſs by being ſtayed at the Board, upon Pretence from the Miners <hi>of ſome Point of State, which then appear<g ref="char:EOLhyphen"/>ed to be otherwiſe:</hi> Therefore their Lordſhips <hi>in an Honourable reſpect of the Complainant and the Reſt,</hi> did wiſh that they might have all the <hi>Speed and Expe<g ref="char:EOLhyphen"/>dition,</hi> which the Law in Juſtice might afford them.</p>
+            <p>After which Diſmiſſion from the Council-Board in <hi>Michaelmas Term</hi> next following,
+<note place="margin">The Com<g ref="char:EOLhyphen"/>plainants Bill in Chancery.</note> being the 19th Year
+<pb n="6" facs="tcp:38676:4"/>of King <hi>James</hi> I, the ſaid <hi>Carrier</hi> exhibited his Bill in <hi>Chancery</hi> againſt theſe Defendants, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>Robert Maddox,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Taylor,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Fogg,</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Bayley,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Godbehere,</hi>
+                  </item>
+                  <item>And others,</item>
+               </list> Miners within the ſaid Pariſh, naming them in all to be 300 or thereabouts: The ſaid 5 Perſons appeared in the ſaid <hi>Michaelmas-Term,</hi> and took out a <hi>Dedimus</hi> to anſwer in the Country, returnable in <hi>Hillary Term</hi> fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>The Complainant being thus delayed by a <hi>Dedimus,</hi>
+               <note place="margin">Delays by the Miners.</note> petitioned the Lord Keeper for an Injunction, which by an Order of Court of 4th of <hi>December,</hi> 19 of King <hi>James</hi> I, was granted againſt all the Miners in that Pa<g ref="char:EOLhyphen"/>riſh, requiring them to pay this Tyth as formerly it uſed to be, until they anſwered: And after their An<g ref="char:EOLhyphen"/>ſwer given in <hi>Hillary-Term</hi> 19 <hi>James</hi> I, wherein they a<g ref="char:EOLhyphen"/>verred themſelves to be more in Number than 300; in <hi>Eaſter-Term</hi> the Miners prayed, That the Injunction might be changed into a <hi>Sequestration,</hi> The Complai<g ref="char:EOLhyphen"/>nant was ordered to ſhow cauſe in <hi>Trinity-Term,</hi> why it ſhould not ſo be.</p>
+            <p>The Matter was then heard and long debated 3d. <hi>July,</hi> 20 <hi>Jacobi Reg. prim.</hi> and then Ordered, that the Defendants and all the Reſt, ſhould pay the ſaid Tyth, and that the <hi>Injunction</hi> ſhould continue in force till hearing, and the Complainant alſo under an <hi>Injuncti<g ref="char:EOLhyphen"/>on</hi> to ſtay Suits for this in all other Courts.</p>
+            <p>After all which, and after Bill, Anſwer, Replicati<g ref="char:EOLhyphen"/>on and Rejoynder, Commiſſions to take Evidence and Publication of the ſame, together with the Petition and Debates about the Injunction aforeſaid (all upon record in Chancery Court.)</p>
+            <pb n="7" facs="tcp:38676:4"/>
+            <p>
+               <hi>The Cauſe now being ready to be heard</hi> in <hi>Michaelmas-Term</hi> 20th of King <hi>James</hi> I.
+<note place="margin">The Miners at laſt ſuffer a Decree a<g ref="char:EOLhyphen"/>gainſt them, to paſs by Conſent.</note> The then Defendents <hi>find<g ref="char:EOLhyphen"/>ing the Proofs to be full againſt them, deſired the Complainant to take a Decree by conſent, againſt them and all the reſt of the Miners</hi> in that Pariſh, to pay the ſaid Tyth to the Complainant and his Succeſſors for ever.</p>
+            <p>This Decree by conſent was accordingly paſſed that <hi>Michaelmas-Term,</hi> &amp; ſubſcribed by the then Ld. Keeper.</p>
+            <p>Unto which Decree,
+<note place="margin">The Miners Submit to the Decree for ſome Years.</note> as well the then Defendants as alſo all others, the Miners within the ſaid Pariſh of <hi>Wirkſworth,</hi> did ſubmit, and did by the ſpace of five Years or thereabouts then next following, pay the ſaid <hi>Tyth or Tenth part of Lead-Oar</hi> unto the ſaid Complai<g ref="char:EOLhyphen"/>nant.</p>
+            <p>And likewiſe ſince the foreſaid Diſmiſſion from the <hi>Council-Table,</hi>
+               <note place="margin">Other De<g ref="char:EOLhyphen"/>crees for o<g ref="char:EOLhyphen"/>ther Proprie<g ref="char:EOLhyphen"/>tors.</note> the ſaid <hi>John Gell</hi> had <hi>by due Courſe and Proceedings,</hi> obtained a Decree in this Honourable Court (of <hi>Chancery</hi>) againſt all the Miners within the Pariſhes of <hi>Bakewell, Tiddeſwall</hi> and <hi>Hope,</hi> whereby they were <hi>all</hi> bound to pay the ſaid 3d. part of the Tyth or Tenth of <hi>all</hi> Lead, gotten or to be gotten within the ſaid Pariſhes, unto him the ſaid <hi>John Gell</hi> and his Heirs for ever.</p>
+            <p>Which Decree was ratified and confirmed to ſtand in force againſt them all, by an Order of <hi>Chancery</hi> of 27 <hi>Maii, 3tio Carol. prim.</hi> And the ſaid Mr. <hi>Gell</hi> was ac<g ref="char:EOLhyphen"/>cordingly poſſeſſed of the ſaid 3d. part of the ſaid Tyth of Lead-Oar within the ſaid Pariſhes: And the Miners ever ſince the ſaid Decree was confirmed by the Order aforeſaid, had ſubmitted themſelves and duly paid the ſaid Tyths of Lead-Oar to the ſaid Mr. <hi>Gell,</hi> his Ser<g ref="char:EOLhyphen"/>vants or Deputies.</p>
+            <pb n="8" facs="tcp:38676:5"/>
+            <p>And the ſaid <hi>Miners within the ſaid County of Der<g ref="char:EOLhyphen"/>by</hi> not yet ſatisfied with all the ſaid Proceedings <hi>at Law,</hi>
+               <note place="margin">Miners bring a Bill in Par<g ref="char:EOLhyphen"/>liament a<g ref="char:EOLhyphen"/>gainſt this Tyth.</note> and at the <hi>Council-Table, and in this Honourable Court,</hi> did exhibit their <hi>Bill</hi> againſt this Complainant, <hi>and the Reſt intereſſed in the ſaid Tyth or Tenth of Lead Oar,</hi> for their Relief <hi>into the High Court of Parliament,</hi> holden at <hi>Weſtminſter</hi> 19th <hi>February,</hi> 21 <hi>Jacobi Prim.</hi> wherein they did deſire that it might be Enacted, That no Tyth or Tenth <hi>of Lead Oar might be paid in any place whatſoever within the ſaid Coun<g ref="char:EOLhyphen"/>ty of Derby, which Bill was twice read, and Com<g ref="char:EOLhyphen"/>mitted and Reported,
+<note place="margin">The Miners Bill in Parlia<g ref="char:EOLhyphen"/>ment againſt this Tyth re<g ref="char:EOLhyphen"/>jected.</note> and then upon Debate, amongſt the Commons aſſembled in Parliament, it was</hi> upon <hi>Wedneſday</hi> the 12th of <hi>May,</hi> 22 <hi>
+                  <hi>Jacobi Regis Prim.</hi> Re<g ref="char:EOLhyphen"/>jected and caſt out.</hi>
+            </p>
+            <p>Yet notwithſtanding all this, in <hi>Eaſter-Term,</hi> 3tio <hi>Ca<g ref="char:EOLhyphen"/>roli Regis Prim.</hi>
+               <note place="margin">Miners pro<g ref="char:EOLhyphen"/>mote new Suits, and queſtion the former De<g ref="char:EOLhyphen"/>cree.</note> Some of the Miners within <hi>Wirkſworth by ſiniſter Incouragement of ſome others ill-affected to the Complainant,</hi> did queſtion whether the former Decree as it was paſſed and drawn up, ought to oblige all the Miners in that Pariſh, or only the then named Defen<g ref="char:EOLhyphen"/>dants,
+<note place="margin">This queſtion Referred to the Attorney General.</note> which Queſtion was by Order of <hi>Chancery,</hi> 4to. <hi>Maii, Anno</hi> 3tio <hi>Carol. Prim.</hi> referred to Sir <hi>Robert Heath</hi> Attorney General, to examine and certifie concerning it, who upon <hi>full Examination, and divers Hearings of the Matter, in Preſence of Council learned on both ſides, and upon Peruſal of the ſaid Bill and Anſwer, Proofs,</hi> &amp;c. <hi>made</hi> (10th <hi>July,</hi> 4to <hi>Carol. Regis,) his Certificate</hi> to this Effect, <hi>viz.</hi>
+            </p>
+            <p n="1">1st.
+<note place="margin">Attorney Ge<g ref="char:EOLhyphen"/>neral his Cer<g ref="char:EOLhyphen"/>tificate.</note> That the Complainant had prayed Proceſs only againſt the then named Defendants, yet complaining therein againſt all the Miners within that Pariſh, na<g ref="char:EOLhyphen"/>ming them to be 300 or thereabouts, though the De<g ref="char:EOLhyphen"/>fendants
+<pb n="9" facs="tcp:38676:5"/>in their Anſwer, did affirm and ſet forth that they were more.</p>
+            <p n="2">2. He found that before the ſaid Anſwer was made, it being delayed by a <hi>Dedimus,</hi> an Injunction was a<g ref="char:EOLhyphen"/>warded by the Ld. Keeper againſt <hi>all</hi> the Miners in that Pariſh, requiring them to pay this Tyth, which Injunc<g ref="char:EOLhyphen"/>tion was upon debate ratified and confirmed, to ſtand in force till the Cauſe was heard.</p>
+            <p n="3">3d. <hi>He did find a general Solliciting in the Suit, and a general Contribution of the Miners</hi> of the ſaid Pariſh, <hi>againſt the Complainant to maintain that Suit.</hi>
+            </p>
+            <p n="4">4th. He found that for a time, the ſaid Miners did all ſubmit, and continued ſome Years to pay this Tyth to the Complainant, but found no Order preced<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the ſaid Injunction and Decree, to warrant the Decree a<g ref="char:EOLhyphen"/>gainſt the Miners in general.</p>
+            <p n="5">5th. And Laſtly,
+<note place="margin">Records of the Firſt fruits Office of this Tyth.</note> he found by the Proofs publiſhed in the Cauſe, and <hi>by the Record in the Firſt-Fruits-Office, that the ſaid Tythe or Tenth of Lead Oar, had been time out of mind paid:</hi> And by that Record it appeared, that the Vicarage of <hi>Wirksworth</hi> being va<g ref="char:EOLhyphen"/>lued in the King's Book at above 40 <hi>Pounds,</hi> 30 <hi>Pounds</hi> thereof was only for the ſaid Tythes of <hi>Lead-Oar,</hi> and therefore.</p>
+            <p>
+               <hi>His Opinion was,</hi> That if in the Lord-Keepers Judg<g ref="char:EOLhyphen"/>ment, the Decree, as then drawn up, ought to extend to all the Miners in the ſaid Pariſh until it be reverſed, that then the Complainant ſhould be ſettled in the poſ<g ref="char:EOLhyphen"/>ſeſſion of thoſe Tythes till that time, and reſtored to the Arrearages, the Poſſeſſion being taken away ſince
+<pb n="10" facs="tcp:38676:6"/>the reference. But if the ſaid Decree ſhould not in his Lordſhips Judgment be extended to any others, but ſuch, as againſt whom Proceſs was prayed: That then the Lord Keeper ſhould direct a Courſe for the <hi>ſinal De<g ref="char:EOLhyphen"/>termination</hi> of that <hi>Queſtion.</hi> (As by that ſaid Decree, Order of Reference and Certificate, all on Record in <hi>Chancery,</hi> and alſo by the Bill and Proceedings in Parli<g ref="char:EOLhyphen"/>ament, to which the Complainant referreth himſelf at large, appeareth.)</p>
+            <p>
+               <hi>Upon this Certificate</hi> of the Attorney Generals, the Complainant prayed that his Decree before had, might extend to all the Miners in that Pariſh.</p>
+            <p>But in regard the Decree aforeſaid was not made up<g ref="char:EOLhyphen"/>on a <hi>Judicial Hearing,</hi>
+               <note place="margin">An Order obtained for a new Suit in Chancery.</note> (but by Conſent) the Court di<g ref="char:EOLhyphen"/>rected and ordered, that it ſhould only ſtand in force againſt ſuch as <hi>Conſented</hi> to it. But yet further Or<g ref="char:EOLhyphen"/>dered, that Mr. <hi>Chriſtopher Fulwood,</hi> of Councel with the Miners, ſhould within a Fortnight after Entrance of that Order, upon notice given, nominate four Miners to be Defendants to a new Bill to be exhibited againſt them by the Complainant, and what Order or Decree ſhould be made againſt them Four, the reſt of the Miners in that Pariſh ſhould be Bound by it.</p>
+            <p>In purſuance of which Order, Counſellor <hi>Fulwood</hi> na<g ref="char:EOLhyphen"/>med the four Defendants, (firſt mentioned in the begin<g ref="char:EOLhyphen"/>ning of this Decree) viz. <hi>Ephraim Fern, Richard Wig<g ref="char:EOLhyphen"/>ley</hi> of <hi>Cromford, Anthony Coates,</hi> and <hi>William Debanck.</hi>
+            </p>
+            <p>
+               <hi>The Complainant</hi> exhibited his Bill againſt thoſe four Defendants, to the end, that his Duty and Right to the ſaid Tythe of Lead-Oar, might be ſettled by Decree of this Court againſt all the Miners in the ſaid Pariſh, who not ſatisfied with the former Proceedings, <hi>to put the ſaid
+<pb n="11" facs="tcp:38676:6"/>Complainant to further Trouble and Charge, did un<g ref="char:EOLhyphen"/>conſcionably refuſe to pay the ſaid Cuſtomary Duty of the Tythe or 10th of Lead Oar,</hi> gotten,
+<note place="margin">Unjuſt and Vexatious dealings of the Miners for forth.</note> and to be got<g ref="char:EOLhyphen"/>ten in the ſaid Pariſh. And the ſaid four Defendants, ha<g ref="char:EOLhyphen"/>ving by Caſualty, or otherwiſe, gotten into their own, or ſome of their Friends hands, <hi>divers Deeds, Evidences, Charters, Writings and Records, which would plain<g ref="char:EOLhyphen"/>ly prove the ſaid Complainants Right and Title</hi> to the ſaid Tythe or Tenth of Lead-Oar, had of late upon ſome <hi>cauſeleſs Diſpleaſure</hi> by them conceived againſt the Com<g ref="char:EOLhyphen"/>plainant, <hi>and by Plot, Confederacy, and Agreement a<g ref="char:EOLhyphen"/>mongſt themſelves, wilfully denyed the Payment of the ſaid Tythe of Lead Oar</hi> by them gotten within the ſaid Pariſh to the Complainant then Vicar of the ſaid Pariſh of <hi>
+                  <hi>Wirksworth.</hi> And according to the ſaid Plot and Agreement, had all of them abſolutely deny<g ref="char:EOLhyphen"/>ed, and wilfully refuſed to pay any Tythe or Tenth Part at all to the ſaid Complainant of or for any Lead-Oar</hi> gotten by them within the ſaid Pariſh of <hi>Wirksworth,</hi> ſometimes affirming, that the ſaid Tythe of Lead-Oar was a Perſonal Tythe, and ſometimes that the ſaid Complainant ought to take his ſaid Tythe or Tenth Part undreſſed, as it was drawn up out of the Lead-Mines or Groves, in which they get the ſame.</p>
+            <p>
+               <hi>Whereas in Truth,</hi> the ſaid Tythe or Tenth Part of all the Lead-Oar gotten within the ſaid Pariſh, had (all the Time whereof the memory of Man was not to the contrary) been paid, <hi>and of right ought to be paid by Cuſtom and Preſcription, in manner and form fol<g ref="char:EOLhyphen"/>lowing.</hi>
+            </p>
+            <p>That is to ſay,
+<note place="margin">The manner of Payment of this Tyth ſet forth.</note> 
+               <hi>within and over the Wapontake of Wirksworth in the ſaid County of Derby,</hi> (whereof the Mineral Places of <hi>Wirksworth</hi> Pariſh were, and are
+<pb n="12" facs="tcp:38676:7"/>part) <hi>there is,</hi> &amp; beyond Mans memory has been, <hi>a prin<g ref="char:EOLhyphen"/>cipal Officer for the ſaid Lead Mine, called a Barmaſter, by whom all the ſaid Lead that was there gotten, is and ought to be meaſured before the ſame were ſold or made away. At which Meaſure the ſaid Barmaſter did ſee the Lot and Cope paid to the Lord of the Field, or of the Mine, and the Proprietors and Own<g ref="char:EOLhyphen"/>ers of the ſaid Tythes or Tenth of Lead Oar for the time being had likewiſe</hi> by all the time aforeſaid, <hi>re<g ref="char:EOLhyphen"/>ceived every Tenth Diſh or Meaſure of Lead Oar from the Miners or Getters of the ſame.</hi> And they had always received every the ſaid Tenth Diſh, being dreſſed and cleanſed from the Earth and Rubbiſh, at and by the proper Coſts, and Charges, and Labour of the Miners: The Proprietors and Owners of the ſaid Tyth, or Tenth Diſh, allowing one Penny unto the Miners for the dreſſing, waſhing, and cleanſing of every ſaid Tenth Diſh.</p>
+            <p>In which manner the ſaid Tythe or Tenth part of Lead-Oar had been paid as aforeſaid, (time beyond the memory of Man) and <hi>ſo of Right ought to be paid.</hi>
+            </p>
+            <p>Which ſaid Cuſtom for payment of the ſaid Tythe,
+<note place="margin">Cuſtom the ſame in all Pariſhes</note> or Tenth of Lead-Oar <hi>within all Pariſhes of the ſaid County of Derby, where the ſame had been gotten, had been confirmed, entitled, approved, and eſta<g ref="char:EOLhyphen"/>bliſhed by the ſaid ſeveral Verdicts, Decrees, Certifi<g ref="char:EOLhyphen"/>cates, Orders, and other Proceedings formerly ſet forth and expreſſed.</hi>
+            </p>
+            <p>And the ſaid Cuſtomary Duty had been ſo paid in manner as aforeſaid, to the ſaid Complainants Predeceſ<g ref="char:EOLhyphen"/>ſors, and to him as Vicar of <hi>Wirkſworth,</hi> time out of mind of Man, without any Interruption, Queſtion or
+<pb n="13" facs="tcp:38676:7"/>Contradiction, until of late, that the ſaid 4 Defendants with the reſt of the Miners in that Pariſh,
+<note place="margin">Illegal Com<g ref="char:EOLhyphen"/>binations of the Miners.</note> 
+               <hi>had combined and confederated themſelves</hi> as aforeſaid, <hi>and did abſolute<g ref="char:EOLhyphen"/>ly deny the Payment thereof, and had given out in Speeches, that They would make the ſaid Complainants ſaid Tyth or Tenth part of Lead-Oar, bear the Charges of their Suit; and that if the ſaid Complainant would oppoſe, and ſtand out in Law with them, They would make him not worth a Groat; <hi>which Oppoſition and Combination was con<g ref="char:EOLhyphen"/>trary to all Equity and good Conſcience.</hi>
+               </hi> And would tend to the great Loſs and Diſinheriſon of the ſaid Com<g ref="char:EOLhyphen"/>plainant and his Succeſſors, of the ſaid Tyth or Tenth part of Lead-Oar, if due and ſpeedy Remedy were not had therein.</p>
+            <p>
+               <hi>In tender Conſideration whereof, <hi>and for Prevention of Multiplicity of Suits, and to avoid further Expences, and to the intent, that a final Decree might be made</hi>
+               </hi> in the Cauſe; to conclude, all the Miners within the ſaid Pariſh of <hi>Wirkſworth,</hi> (according to the Direction of this Court formerly made in that behalf) and the Quiet Poſ<g ref="char:EOLhyphen"/>ſeſſion eſtabliſhed and continued with the ſaid Com<g ref="char:EOLhyphen"/>plainant and his Succeſſors, and in regard the Tyth of Lead-Oar was two thirds of the whole Profits of that Vicarage (there being neither Glebe nor Tyth-Corn, nor Tyth-Hay belonging to it) and ſo the ſaid Church would be diſinherited, and the Complainant impove<g ref="char:EOLhyphen"/>riſhed, if not timely prevented; Therefore he prayed proceſs of <hi>Subpoena</hi> againſt the ſaid 4 Defendants, which being granted, and they ſerved therewith, and after Bill, Anſwer, Replication, Commiſſions to examine Wit<g ref="char:EOLhyphen"/>neſſes, and Publication, and all other Proceedings (on <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ord in <hi>Chancery</hi>) had and made. A Day was ap<g ref="char:EOLhyphen"/>pointed for Hearing, at which the Defendants being not ready or prepared, as their Council pretended, to go to
+<pb n="14" facs="tcp:38676:8"/>hearing,
+<note place="margin">Delay of Hearing by the Miners.</note> a further Day was appointed for hearing the ſaid Cauſe.</p>
+            <p>On which Day it then appeared, that a <hi>Decree</hi> had been taken by <hi>Conſent</hi> (as aforeſaid) againſt the 5 for<g ref="char:EOLhyphen"/>mer Defendants, <hi>viz. Maddock, Taylor, Fogg, Bayley,</hi> and <hi>Godbehere,</hi> for Payment of this Tyth to the Com<g ref="char:EOLhyphen"/>plainant by them and the reſt of the Miners in that Pa<g ref="char:EOLhyphen"/>riſh; notwithſtanding which, the reſt not named Par<g ref="char:EOLhyphen"/>ties then, had refuſed to be bound by that Decree, where<g ref="char:EOLhyphen"/>upon a new Bill was ordered, and 4 new Defendants na<g ref="char:EOLhyphen"/>med, (as aboveſaid) by whoſe Succeſs the Reſt ſhould now be concluded, which Cauſe came now to be heard.</p>
+            <p>
+               <hi>And upon the full hearing and long debate of the mat<g ref="char:EOLhyphen"/>ter before the Right Honourable the Lord Reeper, in preſence of Councel learned on both ſides;</hi> It appeared, that <hi>the conſtant and general Cuſtom</hi> within the ſaid Pariſh for the ſpace of 50 Years and upwards, had been to pay the ſaid Tyth or 10th Diſh of Lead-Oar dreſſed and cleanſed from the Earth and Rubbiſh,
+<note place="margin">Tyth not ta<g ref="char:EOLhyphen"/>ken of the Lot-Diſhes which are the Kings part.</note> 
+               <hi>ſaving that the Lot Tiſhes had not been reck'ned or accounted as part of that out of which the ſaid Tyth or Tenth ſhould be paid.</hi>
+            </p>
+            <p>And the Complainants Councel offered to read De<g ref="char:EOLhyphen"/>poſitions of old Witneſſes (taken in the former Cauſe) now dead, to prove this Cuſtom in the ſaid Pariſh for fourſcore Years.</p>
+            <p>It appeared alſo by a Copy of a Record in the Firſt Fruits Office, that the Vicarage of <hi>Wirkſworth</hi> being va<g ref="char:EOLhyphen"/>lued at above 40 <hi>l. per Annum</hi> in the Kings-Books, 30 <hi>l.</hi> thereof was only for the ſaid Tyths of Lead-Oar.</p>
+            <pb n="15" facs="tcp:38676:8"/>
+            <p>
+               <hi>But the onely Queſtion was concerning the Recom<g ref="char:EOLhyphen"/>pence</hi> which the Plaintiff and his Predeceſſors had uſed to allow to the Miners for cleanſing and waſhing the ſaid Tenth Diſh.
+<note place="margin">Debates a<g ref="char:EOLhyphen"/>bout the re<g ref="char:EOLhyphen"/>compence for Waſhing the Tenth diſh.</note>
+            </p>
+            <p>Where it was proved by the Plaintiſſs Witneſſes, the <hi>conſtant courſe and uſage had been to allow onely a Penny for waſhing and cleanſing the ſaid Tenth Diſh.</hi>
+            </p>
+            <p>On the other ſide it was proved, that ſome of the Plaintiffs Predeceſſors had allowed ſometimes to the Mi<g ref="char:EOLhyphen"/>ners, when their Work fell in hard and rocky Ground, and in places much annoyed with Water, a greater pro<g ref="char:EOLhyphen"/>portion, <hi>viz.</hi> ſometimes Four Pence the Diſh; and it was alledged on the Defendants part, that the cleanſing of a Diſh was worth Eight Pence; And therefore it was againſt Reaſon to inforce the poor Miners to do it for a Penny.</p>
+            <p>
+               <hi>Nevertheleſs</hi> His <hi>Lordſhip was well ſatisfied,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding any thing objected by the ſaid Defendants Councel to the contrary, <hi>that the ſaid Complainant ought to be paid his Tyth of Lead-Oar;</hi> And that the moſt <hi>conſtant Cuſtom</hi> had been to allow <hi>but a Penny</hi> for cleanſing it.</p>
+            <p>And that the ſaid Miners of the Pariſh of <hi>
+                  <hi>Wirkſworth</hi> ought to be in the ſame ſtate and coudition as other the Miners in the High-Peak were;</hi>
+               <note place="margin">The Miners in the Wapon<g ref="char:EOLhyphen"/>take of <hi>Wirksworth</hi> ought to be in the ſame condition with thoſe in the High-peak</note> againſt whom a <hi>De<g ref="char:EOLhyphen"/>cree</hi> had been made in this Court, <hi>and Tryals at Law upon the Point of Cuſtom for payment of Tythes or Tenth of Lead-Oar</hi> as aforeſaid.</p>
+            <p>Nevertheleſs His Lordſhip conſidering that the Alte<g ref="char:EOLhyphen"/>ration of times, might beget great Inequality and Diſ<g ref="char:EOLhyphen"/>proportion in the ſaid Payment; for although in anci<g ref="char:EOLhyphen"/>ent
+<pb n="16" facs="tcp:38676:9"/>times, the foreſaid rate of a Penny might be a com<g ref="char:EOLhyphen"/>petent Recompence for the labour of waſhing the ſaid 10th Diſh, yet in theſe times it may be otherwiſe. And conſidering, that whatever the Plaintiffs right in that behalf is in Law, according to the ſtrict Cuſtom; yet he could not expect, that <hi>A Court of Equity</hi> ſhould Decree the ſaid Cuſtom in ſuch a point as may tend to the un<g ref="char:EOLhyphen"/>doing of the poor Miners: Therefore His Lordſhip thought ſit <hi>without prejudice to the Plaintiffs Right, or to the aforeſaid Cuſtom,</hi> if at any time he ſhall think good to make uſe thereof at Law; to take ſuch <hi>a mid<g ref="char:EOLhyphen"/>dle Courſe</hi> whereby the Plaintiff <hi>without Multiplicity of Suits, might have his Tyth <hi>by Order of this Court,</hi>
+               </hi> and yet the poor Miners not be too much pinched by the Rigor or Strictneſs of the ſaid Cuſtom.</p>
+            <p>
+               <hi>It is therefore this preſent Day,</hi> that is to ſay, on <hi>Saturday</hi> the 4th day of <hi>July, Anno</hi> 5to <hi>Regni Caroli Re<g ref="char:EOLhyphen"/>gis, &amp;c. primi.</hi> By the Right Honourable <hi>Thomas</hi> Lord <hi>Coventry,</hi> Lord Keeper of the Great Seal of <hi>England,</hi> and by the <hi>Authority</hi> of the ſaid <hi>
+                  <hi>High Court of Chancery,
+<note place="margin">The Tyth of Lead-Oar Decreed.</note> Ordered, Adjudged and Decreed,</hi> that the ſaid Defen<g ref="char:EOLhyphen"/>dants, and all other the Miners,</hi> within the ſaid Pariſh for the time being, <hi>and for the Time to come,</hi> ſhall pay to the ſaid Complainant, and to his Succeſſors, Vicars of <hi>Wirkſworth</hi> for ever; <hi>The Tyth or</hi> 10th <hi>Diſh of All Lead-Oar gotten or to be gotten</hi> within the ſaid Pa<g ref="char:EOLhyphen"/>riſh; <hi>dreſſed and cleanſed from the Earth and Rubbiſh at the Charge and Labour of the <hi>Miners.</hi>
+               </hi>
+               <note place="margin">A Commiſ<g ref="char:EOLhyphen"/>ſion about the Equity of the Recompence for waſhing the Tyth, but without pre<g ref="char:EOLhyphen"/>judice of the general Cuſ<g ref="char:EOLhyphen"/>tom.</note>
+            </p>
+            <p>And as touching the <hi>Allowance</hi> to be made by the Complainant and his Succeſſors, for waſhing, dreſſing and cleanſing every 10th Diſh; albeit his Lordſhip doth <hi>not intend to alter or controul the ancient Cuſtom</hi> in that behalf; yet in regard it tendeth to ſettle peace and
+<pb n="17" facs="tcp:38676:9"/>quietneſs hereafter, and for other Reaſons before ex<g ref="char:EOLhyphen"/>preſſed, and becauſe the Councel on both ſides could not agree about it: Therefore his Lordſhip, for his fuller Satisfaction therein, and that a moderate Conſi<g ref="char:EOLhyphen"/>deration may be had thereof, if the matter ſo require, <hi>but without prejudice of the General Cuſtom,</hi> formerly held, and uſed in that behalf, thinketh fit, and doth or<g ref="char:EOLhyphen"/>der, that a <hi>Commiſſion</hi> be awarded to Sir <hi>Henry Wil<g ref="char:EOLhyphen"/>loughby,</hi> Knt. and Barronet, Sir <hi>Henry Lee,</hi> Sir <hi>Henry Agard,</hi> and <hi>John Bullock,</hi> Eſq; or any 3 or 2 of them, to conſider and examine, whether a Penny a Diſh be a ſuf<g ref="char:EOLhyphen"/>ficient Recompence, for waſhing and cleanſing every 10th. Diſh, one with another, giving them power to view all ſorts of Oar, and to examine Witneſſes about this Matter, if need be: And upon return of the ſaid Commiſſion and Certificate from his Lordſhip, will give further Order: Till which time the Complainant is only to pay a Penny for cleanſing his Tythe Oar as formerly, and if his Lordſhip ſhall order the Miners to have a better Allowance, then the Complainant ſhall make up and ſatisfie the ſame unto them.</p>
+            <p>
+               <hi>Vobis igit' praefat'</hi> Georgio Savile, <hi>&amp;c. &amp; veſt' cuilth' ſirmit' injungend' percipim' qd omnia &amp; ſingula in Iu<g ref="char:EOLhyphen"/>dicio ſive Decreto praedict' content' &amp; ſpecificat' faciatis &amp; perimpleatis—juxta tenorem, &amp;c.—ſub periculo, &amp;c. Teſtte meipſo apud Weſtm'</hi> 28 <hi>Iulij Anno Reg'</hi> 15.</p>
+            <closer>
+               <signed>Grim. Longuivillo.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="18" facs="tcp:38676:10"/>
+            <head>Short Remarks on the aforeſaid DECREE.</head>
+            <p n="1">1st. BY this <hi>Record</hi> it appears, that the Right and Claim of a Tyth of <hi>Lead-Oar,</hi> is <hi>one and the ſame in all Pariſhes in Terbyſhire, where Lead Dar is digged;</hi> and as ſuch, hath been tried and adjudged at Common Law, upon <hi>general Iſſues and Evidence for avoiding Multiplicity of Suits.</hi> For if the Iſſues and Evidence had not been <hi>General,</hi> but <hi>Local,</hi> and particular (as of late Years has been attempted) there muſt have enſued as many ſeveral Suits, as there were Pariſhes, or Proprietors who claim this Tyth.</p>
+            <p n="2">2dly. By this alſo appears the illegal <hi>Combinations, Confederacies,</hi> and other manifold vexatious and un<g ref="char:EOLhyphen"/>juſt Dealings of the Miners, in defending Suits againſt this Tyth; removing <hi>this Cauſe</hi> from one Court to another upon falſe Suggeſtions and Pretences; refuſing to be bound by former <hi>Decrees (though taken by con<g ref="char:EOLhyphen"/>ſent againſt them)</hi> on purpoſe to weary out the Com<g ref="char:EOLhyphen"/>plainants. They have alſo taken Advantage from the Change or Poverty of divers Incumbents of that par<g ref="char:EOLhyphen"/>ticular Pariſh, to which this <hi>decree</hi> relates, to enforce and oblige them to defend, renew, and confirm this very <hi>Decree</hi> five or ſix times (ſince the firſt beginning of it,) at the Expence and Charge of many hundred Pounds each time.</p>
+            <p n="3">3dly. By this <hi>Record</hi> (as well as by <hi>the Iournals of Parliament</hi> to which it refers) it appears, that this Cuſtom for payment <hi>of a Tyth of Lead-Oar in all
+<pb n="19" facs="tcp:38676:10"/>Pariſhes within the County of Derby where it is got<g ref="char:EOLhyphen"/>ten,</hi> hath been examined, debated, &amp; approved <hi>amongſt the Commons aſſembled in Parliament, by rejecting and caſting out a Bill</hi> formerly <hi>brought againſt it:</hi> Which we hope will be looked on as a good Prece<g ref="char:EOLhyphen"/>dent to bring this Cauſe once more before that <hi>High and Honourable Court,</hi> by a Bill for preventing ſuch Mul<g ref="char:EOLhyphen"/>tiplicity of Suits, and final Settling this Tyth in the ſaid County, according to the Tenor, Equity, and Eſta<g ref="char:EOLhyphen"/>bliſhment of this and other ſuch like Decrees.</p>
+         </div>
+         <div type="text">
+            <head>The common Prejudices or Objections which will be urged againſt the Eſtabliſhment of this <hi>Tyth,</hi> are theſe.</head>
+            <p>
+               <hi>Object.</hi> 1st. TYth is only due of Things growing or in<g ref="char:EOLhyphen"/>creaſing above Ground, and may as well be claimed of Coal-mines or Lime-kilns, as of Lead-Mines.</p>
+            <p>
+               <hi>Anſw.</hi> Tyth though ordinarily, <hi>or of common Right</hi> due of things growing above Ground, yet by Cuſtom may be paid of any thing whatever, as is known in ma<g ref="char:EOLhyphen"/>ny Inſtances in divers Parts of this Kingdom. Coales and Lime are not under the ſame <hi>Laws, Cuſtoms, Pri<g ref="char:EOLhyphen"/>vileges, and Acknowledgments of Tyth,</hi> as the Lead-Mines in <hi>Derbyſhire</hi> are. Nor do the Miniſters or Pro<g ref="char:EOLhyphen"/>prietors of Tyth pay Tenths yearly to the King for Tyth of Coals or Lime, as they expreſly do for <hi>Tyth of Lead-Oar.</hi> And the Objectors know well enough, that in
+<pb n="20" facs="tcp:38676:11"/>divers Pariſhes of <hi>Derbyſhire,</hi> where a Tyth of <hi>Lead-Oar</hi> has been, and is at this day paid, there are Lime<g ref="char:EOLhyphen"/>kilns, and in ſome places Coal-mines alſo. from which never any Tyth was pretended to be claimed.</p>
+            <p>This alſo (we hope) will prevent all Prejudice in ſuch Gentlemen, who have Intereſt in Mines in other places of the Kingdom, which are not under the ſame Cuſtoms and Priviledges, nor liable to the ſame Duties with thoſe in <hi>Derbyſhire.</hi> This Eſtabliſhment being only deſired for the County of <hi>Derby,</hi> where this Tyth hath been abundantly acknowledged by the whole Body of the Miners, and is in moſt places paid at this day.</p>
+            <p>
+               <hi>Object.</hi> 2d. The payment of this Tyth will injure or obſtruct the King's Duty. <hi>Note,</hi> That the King's Duty is called the <hi>Lot and Cope:</hi> The <hi>Lot</hi> is every 13th Diſh, or Meaſure of Oar paid to the King, as Lord of the Field: The <hi>Cope</hi> is in ſome places 6 <hi>pence,</hi> in others 4 <hi>pence</hi> for every Load of Oar, (9 Diſhes making up a Load) which is paid by the Buyers of the Oar, as a Com<g ref="char:EOLhyphen"/>poſition for the King's Right of <hi>Praeemption</hi> of the Oar which he formerly had.</p>
+            <p>
+               <hi>Anſw.</hi> The <hi>Cope</hi> being paid by the Buyer of Lead-Oar, cannot be at all affected by payment of the Tyth; and the <hi>Lot-diſhes are never reck'ned as part of that out of which Tyth is paid.</hi> In the old Laws and Cuſ<g ref="char:EOLhyphen"/>toms of the Lead-mines (which are on Record) the Du<g ref="char:EOLhyphen"/>ties to the <hi>Church and King</hi> are mentioned always to<g ref="char:EOLhyphen"/>gether as neceſſary Conditions of ſome Privileges: And we hope the Farmers of his Majeſties duty, will not think it their juſt Intereſt, to deſtroy the one, upon pretence of advancing the other; ſince the payment of each to the diſtinct Proprietors does beſt ſecure the
+<pb n="21" facs="tcp:38676:11"/>Accounts of both, and prevents either from being cheat<g ref="char:EOLhyphen"/>ed. For in places where this Tyth is unjuſtly witheld from the Church, the King is more eaſily cheated by the Miners, who are as ready to conceal and defraud the King's part (where they can do it) as they are to deny the Churches Right.</p>
+            <p>
+               <hi>Object.</hi> 3d. The Payment of this Tyth will ruin the poor Miners, or diſcourage them from working.</p>
+            <p>
+               <hi>Anſw.</hi> It is paid in all Pariſhes adjoyning to the Pe<g ref="char:EOLhyphen"/>titioners, yet has no ſuch effect; nor had it ſuch effect, when it was paid in the Petitioners Pariſhes. The poor as well as rich Miners have all of them acknowledged the Churches Right, when it was for their Service, ei<g ref="char:EOLhyphen"/>ther to ſet out their Privileges, or to obtain a Relaxati<g ref="char:EOLhyphen"/>on of Taxes by ſuch Acknowledgment. But the Clergy have always uſed the greateſt Clemency to the poorer ſort of Miners, taking little or nothing from them; and they are ready, and believe it to be their Intereſt ſtill to uſe the ſame Clemency; provided it may not be ur<g ref="char:EOLhyphen"/>ged againſt them, to deſtroy their Claim at common Law (as of late has been done.) However the Rich Owners and Maintainers of Mines, (who get many hun<g ref="char:EOLhyphen"/>dred pounds yearly out of them, and turn up into bar<g ref="char:EOLhyphen"/>ren Heaps, whole Fields of good arable, meadow, and paſture Land, which would otherwiſe yeild a good Tyth in another kind to the Parſon) have no reaſon to make this Objection: The poor Miners generally working un<g ref="char:EOLhyphen"/>der them, for Wages only.</p>
+            <p>
+               <hi>Note,</hi> That both his and the former Objection were formerly conſidered &amp; diſproved before the <hi>Privy-Councel,</hi> when the Cauſe of Tyth-Oar for the whole County of <hi>Derby</hi> was brought before them by the Mi<g ref="char:EOLhyphen"/>ners,
+<pb n="22" facs="tcp:38676:12"/>upon pretence of ſome <hi>Point of State,</hi> which their Lordſhips declared to be otherwiſe.</p>
+            <p>
+               <hi>Object.</hi> 4th. Tryals at <hi>Common Law</hi> have in ſome places been had, and <hi>Verdicts</hi> paſſed againſt this Tyth.</p>
+            <p>
+               <hi>Anſw.</hi> Theſe Tryals were upon wrong Iſſues, directly contrary in their Effect and Intention to the former ge<g ref="char:EOLhyphen"/>neral Iſſues directed by the Privy Councel for the <hi>whole County.</hi> The <hi>Former</hi> were for preventing multiplici<g ref="char:EOLhyphen"/>ty of buits, theſe <hi>Latter</hi> were for promoting as many Suits as there are Pariſhes where Lead-Oar is digged. The <hi>former Tryals</hi> were ſolemn, by Gentlemen of Worth and Eſtates at the Common-pleas Barr in <hi>Weſt<g ref="char:EOLhyphen"/>minſter;</hi> the <hi>Latter</hi> were by meaner and prejudiced Country juries, ſome of them intereſſed in Mines, or related to ſuch as were ſo. The <hi>Former</hi> were upon <hi>full and long Evidence;</hi> the <hi>Latter</hi> were upon moſt falſe, perjured, and partial <hi>Evidence</hi> (as ſhall be made appear if it be examined.) The Miners in theſe laſt Try<g ref="char:EOLhyphen"/>als ſwearing for their own Intereſt againſt the Payment of this Tyth in that Pariſh where the Suit was: And then upon the Verdict paſſed againſt it there, denying it in 3 or 4 of the neighbouring Pariſhes alſo where till that time it had been conſtantly paid or compound<g ref="char:EOLhyphen"/>ed for. So that though the Iſſues in theſe laſt Tryals were (contrary to the former Eſtabliſhments, then not underſtood by the Plaintiffs) made <hi>local and particu<g ref="char:EOLhyphen"/>lar;</hi> yet the Conſequence and Effects of the Verdicts of thoſe Iſſues were (contrary to both Law and Equity) made <hi>general and univerſal</hi> by denial of this Tyth in neighbouring Pariſhes.</p>
+            <p>
+               <hi>Object.</hi> 5th. The Petitioners have Glebe-Lands and o<g ref="char:EOLhyphen"/>ther Tyths and Profits of their Benefices, ſufficient for them to live upon, without this Tyth of Lead-Oar.</p>
+            <pb n="23" facs="tcp:38676:12"/>
+            <p>
+               <hi>Anſw.</hi> We know not what the Objectors are pleaſed to account ſufficient for a Clergy-man's and his Families Maintenance, and to enable him to keep ſuch Hoſpital<g ref="char:EOLhyphen"/>lity, and exerciſe ſuch Charity, as in that poor Coun<g ref="char:EOLhyphen"/>try is expected from him: But we profeſs we can glad<g ref="char:EOLhyphen"/>ly be content with the juſt Rights and Perquiſites of our Churches <hi>be they more or leſs;</hi> Some of us have not 50 <hi>l. per Annum</hi> clear profits of our Benefices: O<g ref="char:EOLhyphen"/>thers of us not 70 <hi>l.</hi> and none of us (we believe) have 100 <hi>l. per Annum,</hi> except one who has 2 Medieties of the ſame Pariſh, which formerly, when the Tyth of Lead-Oar was paid in that Pariſh, did maintain 2 ſeveral Mi<g ref="char:EOLhyphen"/>niſters, and their Families, and now though both Me<g ref="char:EOLhyphen"/>dieties are conjoyned, they hardly exceed 100 <hi>l. per Annum.</hi>
+            </p>
+            <p>But the Opponents of this Duty of Tyth-Oar were alway ready to over-value the poor Clergy's Benefices, and of late to over-tax 'em alſo, ſome of them being tax'd at an higher value, than when their Predeceſſors received this Tyth of Lead Oar. In a Suit againſt the late Rector of <hi>Matlock,</hi> the Defendents ſwear (in their Anſwer) that that Rectory was worth above 100 <hi>l. per Annum</hi> in Tyths, and Rectorial Dues, <hi>over and beſides</hi> the pretended Duty of <hi>Tyth-Oar:</hi> Some Perſons ex<g ref="char:EOLhyphen"/>amined as Witneſſes in that Suit, ſwear that Rectory to be worth 100 <hi>l. per Annum</hi> beſides or without the Tyth of Lead-Oar: And the Deſendents Sollicitor in that Cauſe, inſtructs their Councel to affirm it worth ſometimes 120 <hi>l.</hi> and ſometime 140 <hi>l. per Annum</hi> with<g ref="char:EOLhyphen"/>out Tyth Oar: And yet to ſhew the Falſhood of all theſe Aſſirmations; the preſent Incumbent of that Pa<g ref="char:EOLhyphen"/>riſh could never yet <hi>Lett or Leaſe</hi> out his Benefice for 70 <hi>l. per Annum,</hi> and he has divers times proſſered to Lett it for 60 <hi>l. per Annum.</hi>
+            </p>
+            <pb n="24" facs="tcp:38676:13"/>
+            <p>However, all theſe Objections would be of more force (if they had any at all) againſt divers Noblemen, Gen<g ref="char:EOLhyphen"/>tlemen, and other Proprietors of Tyth in the ſaid Coun<g ref="char:EOLhyphen"/>ty (who have many Thouſands <hi>per Annum</hi> to live upon, And yet (having a juſt Right and Title to this Tyth) receive more yearly Revenues out of it, than any or all the poor Clergy Petitioners are likely to do. But againſt thoſe great Perſons theſe Objections are never made. It may be further added here, That the Petiti<g ref="char:EOLhyphen"/>oners praedial Tyth of Corn, Hay or Graſs, is yearly hindred and decreaſed by the multiplying of Groves or Mines in their Pariſhes, which ſpoil the Land, and make it barren. And laſtly, the chief Propoſers of this Ob<g ref="char:EOLhyphen"/>jection, who are the rich Owners and Maintainers of Mines, have gotten great Eſtates out of the Mines, of more yearly value, than any of the Petitioners Benefi<g ref="char:EOLhyphen"/>ces amount unto in the whole profits of all their Tyths together.</p>
+            <p>This we hope will ſatisfie all juſt and charitable Gen<g ref="char:EOLhyphen"/>tlemen of the Juſtice of our Cauſe, and the Wrong which We and our Churches ſuffer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
